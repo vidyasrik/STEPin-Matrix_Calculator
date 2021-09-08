@@ -1,15 +1,1 @@
-High Level Requirements: 
-* User shall be able to specify the size of the matrix 
-* User shall be able to add the matrices
-* User shall be able to subtract the matrices
-* User shall be able to multiply the matrices 
-* User shall be able to find determinant, transpose and inverse of a matrix
-
-Low level Requirements:
-* User must specify the size of the matrix. The size specified is the dimensions of the square matrix
-* Addition of two matrices can be done (1). Both the matrices need to be of same size(2). The size entered in the begining is same for both the matrices
-* Subtraction of two matrices is implemented in the same manner as addition
-* Multiplication of two matrices is done on two square matrices of a specified size
-* The determinant of a single matrix of a specified size is implemented
-* The transpose of a single matrix operation is implemented
-* To find the inverse of a matrix, both the determinant function and the transpose functions are used in it. The condition that a matrix is invertible is to check if the determinant of the matrix is equal to 0.
+![Requirements](https://user-images.githubusercontent.com/49954792/132459265-b522776b-c245-4e7b-a7b9-a962b24d3b74.PNG)
