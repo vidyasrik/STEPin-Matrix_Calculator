@@ -1,1 +1,5 @@
-
+* User shall be able to specify the size of the matrix
+* User shall be able to add the matrices
+* User shall be able to subtract the matrices
+* User shall be able to multiply the matrices
+* User shall be able to find determinant, transpose and inverse of a matrix
