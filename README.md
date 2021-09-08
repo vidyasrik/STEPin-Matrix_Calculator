@@ -1,7 +1,7 @@
 # STEPin-Matrix_Calculator
 
 ![codeQualityscore](https://www.code-inspector.com/project/28126/score/svg)
-![codegrade](https://www.code-inspector.com/project/28126/status/svg)
+[![codegrade](https://www.code-inspector.com/project/28126/status/svg)](https://frontend.code-inspector.com/public/project/28126/STEPin-Matrix_Calculator/dashboard)
 [![C/C++ CI - Build Status](https://github.com/vidyasrik/STEPin-Matrix_Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/vidyasrik/STEPin-Matrix_Calculator/actions/workflows/c-cpp.yml)
 [![Code Quality - Static Code - Cppcheck](https://github.com/vidyasrik/STEPin-Matrix_Calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vidyasrik/STEPin-Matrix_Calculator/actions/workflows/cppcheck.yml)
 [![Unit Testing - Unity](https://github.com/vidyasrik/STEPin-Matrix_Calculator/actions/workflows/unity.yml/badge.svg)](https://github.com/vidyasrik/STEPin-Matrix_Calculator/actions/workflows/unity.yml)
