@@ -1,1 +1,8 @@
-
+![Available Functions](https://user-images.githubusercontent.com/49954792/132477775-944d1d60-3934-4be1-957b-aeb922291f61.png)
+![Det](https://user-images.githubusercontent.com/49954792/132477779-f54e6789-e4a0-4155-b9c4-2b02272722c9.png)
+![Addition](https://user-images.githubusercontent.com/49954792/132477768-377f4a6b-f00e-448a-8615-a18b259ef1aa.png)
+![Subtraction](https://user-images.githubusercontent.com/49954792/132477800-0824db2b-93c2-4df4-8e72-51b3cc14a705.png)
+![Product](https://user-images.githubusercontent.com/49954792/132477796-f196c6c7-0031-4b0b-a931-b65bae3cf7a5.png)
+![Transpose](https://user-images.githubusercontent.com/49954792/132477802-e25d2acf-bf44-43b7-b70c-033d46cd7004.png)
+![Inverse](https://user-images.githubusercontent.com/49954792/132477792-f1d02bae-db18-4679-9de7-f5ec12800984.png)
+![Exit](https://user-images.githubusercontent.com/49954792/132477786-13c37bb0-abae-4483-8cab-36668f47f5ca.png)
